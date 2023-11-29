@@ -1,7 +1,7 @@
-package net.javaguides.springboot.controller;
+package com.rabbitmq.springboot.controller;
 
-import net.javaguides.springboot.dto.User;
-import net.javaguides.springboot.publisher.RabbitMQJsonProducer;
+import com.rabbitmq.springboot.publisher.RabbitMQJsonProducer;
+import com.rabbitmq.springboot.dto.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

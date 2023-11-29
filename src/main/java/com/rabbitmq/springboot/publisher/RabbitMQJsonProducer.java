@@ -1,6 +1,6 @@
-package net.javaguides.springboot.publisher;
+package com.rabbitmq.springboot.publisher;
 
-import net.javaguides.springboot.dto.User;
+import com.rabbitmq.springboot.dto.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

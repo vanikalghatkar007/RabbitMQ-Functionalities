@@ -1,4 +1,4 @@
-package net.javaguides.springboot.consumer;
+package com.rabbitmq.springboot.consumer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

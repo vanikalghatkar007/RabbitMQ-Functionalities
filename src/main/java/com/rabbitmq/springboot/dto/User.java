@@ -1,4 +1,4 @@
-package net.javaguides.springboot.dto;
+package com.rabbitmq.springboot.dto;
 
 import lombok.Data;
 

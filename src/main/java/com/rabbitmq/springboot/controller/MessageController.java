@@ -1,6 +1,6 @@
-package net.javaguides.springboot.controller;
+package com.rabbitmq.springboot.controller;
 
-import net.javaguides.springboot.publisher.RabbitMQProducer;
+import com.rabbitmq.springboot.publisher.RabbitMQProducer;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
